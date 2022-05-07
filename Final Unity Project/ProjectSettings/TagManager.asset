@@ -1,0 +1,77 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - SoundManager
+  - Terrain
+  - box_Big
+  - box_Small
+  - button_small
+  - Examiner
+  - Spiral
+  - StackPoint
+  - Platform
+  - Button
+  - Checkpoint
+  - SM
+  - GameStart
+  - UIManager
+  - ColoredEnergy
+  - Door
+  - BoxHolder
+  - ButtonTimer
+  - DialogueManager
+  - SmallBoxTutorial
+  - BigBoxTutorial
+  - ButtonTutorial
+  - EnergyReturnTutorial
+  - PuzzleOne
+  - PuzzleTwo
+  - PuzzleThree
+  - PuzzleFour
+  - PuzzleFive
+  - GameEnd
+  - CursorManager
+  - SceneChange
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Box_Layer
+  - Water
+  - UI
+  - 
+  - Spirals
+  - Player
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: platforms
+    uniqueID: 4257738005
+    locked: 0
